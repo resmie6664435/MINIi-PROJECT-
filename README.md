@@ -2,10 +2,12 @@
 CLICK TO VIEW:https://drive.google.com/drive/folders/1k3sJX95D3WMsKhRo49kJvhNWmpg8SCsH?usp=sharing
 
 📊 Sales Data Analysis & Visualization Mini-Project
+
 🚀 Project Overview
 This mini-project focuses on cleaning, analysing, and visualizing sales data using Microsoft Excel and Power BI. The project was completed to gain practical knowledge of data analysis tools and understand how raw data can be transformed into meaningful insights and interactive dashboards.
 
 🎯 Project Objectives
+
 * To clean and organize raw sales data using Excel.
 * To perform data analysis using Excel formulas and functions.
 * To use IF conditions, VLOOKUP, and XLOOKUP for data analysis.
@@ -17,6 +19,7 @@ This mini-project focuses on cleaning, analysing, and visualizing sales data usi
 * To provide useful recommendations based on the analysis.
 
 🛠️ Tools & Technologies Used
+
 * Microsoft Excel
     * Data Cleaning
     * Data Formatting
@@ -35,6 +38,7 @@ This mini-project focuses on cleaning, analysing, and visualizing sales data usi
     * Key Insights and Recommendations
 
 🔄 Project Workflow
+
 Raw Data → Data Cleaning → Data Formatting → Formula & Condition Analysis → Conditional Formatting → Descriptive Statistics → Pivot Tables → Excel Dashboard → Power BI Dashboards → Insights & Recommendations
 
 📈 Excel Analysis
