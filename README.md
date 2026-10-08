@@ -1,6 +1,5 @@
 # MINIi-PROJECT- by fathima resmin f
 CLICK TO VIEW:https://drive.google.com/drive/folders/1k3sJX95D3WMsKhRo49kJvhNWmpg8SCsH?usp=sharing
-
 📊 Sales Data Analysis & Visualization Mini-Project
 
 🚀 Project Overview
